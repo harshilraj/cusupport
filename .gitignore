@@ -21,5 +21,8 @@ build/
 **/.gradle/
 **/build/
 
+# Separate local Android app
+Breakloop/
+
 # Nested local repo; publish separately or convert to a submodule if needed.
 doomscroll/
