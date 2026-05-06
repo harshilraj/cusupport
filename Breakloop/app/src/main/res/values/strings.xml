@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Breakloop</string>
+    <string name="accessibility_service_description">Detects when distracting apps are opened to help you break the loop.</string>
+</resources>
